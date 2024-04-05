@@ -1,0 +1,2 @@
+# JSBot
+A Javascript Selfbot
